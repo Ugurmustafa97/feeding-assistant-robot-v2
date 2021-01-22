@@ -6,3 +6,12 @@ Currently, our team consists of four senior Mechatronics Engineering students: [
 
 
 ![alt text](https://github.com/Ugurmustafa97/feeding-assistant-robot-v2/blob/main/images/Robot3DView.PNG)
+
+This robot arm helps disabled people while they are eating. It picks the food from the desired bowl and moves food to the mouth of the user. We helped from computer vision algorithms for human-machine interface operations. It doesn't show in the above image but there is a webcam next the to spoon, as it can be seen image below. 
+
+![alt text](https://github.com/Ugurmustafa97/feeding-assistant-robot-v2/blob/main/images/Robot3DView.PNG)
+
+Here are the basic workflow of the system:
+
+1. System opens.
+2. Robot arm
