@@ -12,7 +12,7 @@ This robot arm helps disabled people while they are eating. It picks the food fr
 
 ![alt text](https://github.com/Ugurmustafa97/feeding-assistant-robot-v2/blob/main/images/camera-place.PNG)
 
-Here are the basic workflow of the system:
+Here is the basic workflow of the system:
 
 1. System opens.
 2. Robot arm moves to a position to look at the eyes of the user.
@@ -23,3 +23,11 @@ Here are the basic workflow of the system:
 4. The robot arm picks the food and goes back throughout to the user's face.
 5. Computer vision algorithm publish the position of the user's mouth and the spoon at the end of the robot arm positions according to it.
 6. User eats the food. And, this cyscle repeats from the second step.
+
+The exploided view of the robot can be seen in the image below.
+
+![alt text](https://github.com/Ugurmustafa97/feeding-assistant-robot-v2/blob/main/images/exploded-view.jpg)
+
+The items in the images are these:
+
+TO DO: LIST THE ITEMS IN THE PICTURE
