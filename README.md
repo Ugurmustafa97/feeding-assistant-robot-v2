@@ -17,7 +17,9 @@ Here are the basic workflow of the system:
 1. System opens.
 2. Robot arm moves to a position to look at the eyes of the user.
 3. Computer vision algoritm decides to bowl that user wants to eat from informs the user with a loud warning about the decided one and moves to it.
-  * If user closes his/her left eye 5 seconds, the robot arm moves to the first bowl.
-  * If user closes his/her right eye 5 seconds, the robot arm moves to the second bowl.
-  * If user closes his/her both eyes 3 seconds, the robot arm moves to the third bowl.
-  
+   - If user closes his/her left eye 5 seconds, the robot arm moves to the first bowl.
+   - If user closes his/her right eye 5 seconds, the robot arm moves to the second bowl.
+   - If user closes his/her both eyes 3 seconds, the robot arm moves to the third bowl.
+4. The robot arm picks the food and goes back throughout to the user's face.
+5. Computer vision algorithm publish the position of the user's mouth and the spoon at the end of the robot arm positions according to it.
+6. User eats the food. And, this cyscle repeats from the second step.
