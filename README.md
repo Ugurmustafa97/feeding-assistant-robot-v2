@@ -60,6 +60,8 @@ In sum, if you want to build your own feeding assistant robot please contact us 
 
 This feeding assistant robot system cost nearly 4000 Turkish Liras which is nearly equal to 550 U.S. dollars. Which makes the system much more affordable when it is compared with [Obi](https://meetobi.com/) or [Meal Buddy](https://www.performancehealth.com/meal-buddy-systems). So, anyone who has access to a 3D printer could build his/her own feeding assistant robot with the materials we provided in this repository.
 
+You can see our final presentation video in the [link](https://drive.google.com/file/d/1_o9GWws5KZIWe20QwrpMOW1slrLHICfI/view?usp=sharing). In the presentation, you can find all the mathematical, technical details and see a working demonstration of the system.
+
 ## FUTURE WORKS
 - We want to write the whole code again by using C++ and ROS and give a ROS package for the project.
 - Also, we want to rewrite it in a Github repo to make it more trackable.
